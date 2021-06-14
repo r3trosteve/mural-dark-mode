@@ -1,0 +1,175 @@
+:root {
+    --background-color: #212531 !important;
+    --text-color: #abb2bf !important;
+  }
+
+body {
+    background-color: #1C1E28 !important;
+    color: #fff !important;
+}
+
+.dashboard-sidebar {
+    background: #1C1E28 !important;
+}
+
+.workspaces-actions {
+    background-color: #1C1E28 !important;
+    border-bottom: 1px solid #212531 !important;
+}
+
+.workspaces-actions .ui-accessible-menu>button .workspace-trigger {
+    color: #fff !important;
+}
+
+.workspace-actions-arrow svg path {
+    fill: #fff !important;
+}
+
+.dashboard-sidebar .sidebar-button {
+    color: #eee !important;
+}
+
+.dashboard-sidebar .sidebar-button.selected, .dashboard-sidebar .sidebar-button:hover {
+    background: #212531 !important;
+}
+
+.sidebar-button .icon svg rect {
+    stroke: #fff !important;
+} 
+
+.learn-icon path {
+    stroke: #fff !important;
+    fill: #fff !important;
+} 
+
+.dashboard-sidebar-room-item>a {
+    color: #fff !important;
+}
+
+.dashboard-sidebar-room-item.starred a i .room-fav-star-icon path {
+    fill: #fff !important;
+}
+
+.dashboard-sidebar-room-item:hover a i .room-fav-star-icon path {
+    stroke: #fff !important;
+}
+
+.dashboard-sidebar-room-item.selected, .dashboard-sidebar-room-item:hover {
+    background: #212531 !important;
+}
+
+.dashboard-sidebar-room-list .view-more {
+    color: #767676 !important; 
+}
+.dashboard-sidebar .user-options {
+    background-color: #1C1E28 !important;
+    color: #fff !important;
+}
+
+.user-options .user-options-trigger .ui-avatar-user .ui-info-user .name-user {
+    color: #fff !important;
+}
+
+.user-options .user-options-trigger .caret-container svg g g {
+    fill: #fff !important;
+}
+
+/* Dashboard main content */
+
+.dashboard-rows-room-murals {
+    background: #262A37 !important;
+}
+
+.dashboard-rows-room-murals .dashboard-thumb-murals-list {
+    background: #262A37 !important;
+}
+
+.dashboard-rows-room-murals .dashboard-thumb-murals-list.dashboard-row .dashboard-row-title {
+    color: #D3D5E2 !important;
+}
+
+.dashboard-rows-room-murals .dashboard-thumb-murals-list.dashboard-row .dashboard-see-all {
+    color: #D3D5E2 !important;
+}
+
+.dashboard-grid-info, .dashboard-grid-mural-info {
+    background: #1C1E28 !important;
+}
+
+.dashboard-grid-cell.cell-thumb .dashboard-thumb .thumb-title .ui-tooltip-ellipsis .ui-tooltip-ellipsis-content {
+    color: #fff !important;
+}
+
+.dashboard-grid-info>.data p, .dashboard-grid-mural-info>.data p  {
+    color: #67697C !important;
+}
+
+.dashboard-grid-cell.cell-thumb .dashboard-thumb.thumb {
+    background-color: #1C1E28 !important;
+}
+.dashboard-topbar {
+    background-color: #1C1E28 !important;
+}
+
+.room-actions.dropdown-control .dropdown-title .dropdown-text {
+    color: #fff !important;
+}
+
+.dashboard-topbar .dashboard-topbar-content>.topbar-actions .ui-button-search {
+    border: 1px solid #D2D3D7 !important;
+    color: #D2D3D7 !important;
+}
+
+.ui-button-search .ui-button-search-icon svg path {
+    fill: #D2D3D7 !important;
+}
+
+.help-menu .help-button-icon svg path {
+    fill: #D2D3D7 !important;
+}
+
+/* Rooms view */
+
+.ui-input-editable { 
+    color: #fff !important;
+}
+
+.ui-dropdown-trigger svg path { 
+    fill: #fff !important;
+}
+
+.actions-room-creator {
+    color: #67697C !important;
+}
+
+.ui-members-summary .open-button svg path {
+    fill: #D2D3D7 !important;
+}
+
+.ui-members-summary .open-button svg circle {
+    stroke: #D2D3D7 !important;
+}
+
+.ui-members-summary .open-button .member-count {
+    color: #D2D3D7 !important;
+}
+
+.dashboard-rooms-hero {
+    background-color: #262A37 !important;
+}
+
+.dashboard-rooms-hero .dashboard-rooms-purpose {
+    color: #D3D5E2 !important;
+}
+
+.dashboard-grid-mural-sorting p {
+    color: #fff !important;
+}
+
+.dashboard-grid-mural-filter .active-element {
+    color: #fff !important;
+}
+
+.dashboard-thumb-murals-list {
+    background: #262A37 !important;
+}
