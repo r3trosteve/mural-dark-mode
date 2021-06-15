@@ -180,6 +180,14 @@ body {
     background-color: #1C1E28 !important;
 }
 
+.mural-ui-topbar-title-dropdown .ui-input-editable { 
+    color: #fff !important;
+}
+
+.mural-ui-topbar-left-side button:active:before, .mural-ui-topbar-left-side button:hover:before, .mural-ui-topbar-left-side .dropdown-trigger:hover:before, .mural-topbar .voting-button:active:before, .mural-topbar .voting-button:hover:before {
+    background: rgba(255,255,255, 0.15) !important;
+}
+
 .voting-button svg path, .mural-ui-topbar-button-private svg path, .timer-icon g path  {
     fill: #D2D3D7 !important;
 }
@@ -210,4 +218,8 @@ color: #D2D3D7 !important;
 
 .comment-box {
     color: #1C1E28;
+}
+
+.mural-widgets-editor-input-hint .content-editable-container>div {
+    color: #000 !important;
 }
