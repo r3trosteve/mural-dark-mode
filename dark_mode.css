@@ -217,9 +217,13 @@ color: #D2D3D7 !important;
 }
 
 .comment-box {
-    color: #1C1E28;
+    color: #1C1E28 !important;
 }
 
 .mural-widgets-editor-input-hint .content-editable-container>div {
+    color: #000 !important;
+}
+
+.widget-editor .mural-widgets-textbox {
     color: #000 !important;
 }
