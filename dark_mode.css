@@ -130,7 +130,7 @@ body {
 
 /* Rooms view */
 
-.ui-input-editable { 
+.dashboard-rooms-actions .ui-input-editable { 
     color: #fff !important;
 }
 
@@ -172,4 +172,42 @@ body {
 
 .dashboard-thumb-murals-list {
     background: #262A37 !important;
+}
+
+/* Mural view */
+
+.mural-topbar {
+    background-color: #1C1E28 !important;
+}
+
+.voting-button svg path, .mural-ui-topbar-button-private svg path, .timer-icon g path  {
+    fill: #D2D3D7 !important;
+}
+
+.mural-ui-topbar-saving-feedback p {
+    color: #67697C !important;
+}
+
+.collaboration-tools .mural-ui-topbar-button svg path {
+    fill: #D2D3D7 !important;
+}
+
+.mural-ui-topbar-title-dropdown .mural-menu-trigger .arrow-container svg path {
+    fill: #D2D3D7 !important;
+}
+
+.sharing-tools-container svg path {
+    fill: #D2D3D7 !important;
+}
+
+.sharing-tools-container svg circle {
+    stroke: #D2D3D7 !important;
+}
+
+.sharing-tools-container .member-number {
+color: #D2D3D7 !important;
+}
+
+.comment-box {
+    color: #1C1E28;
 }
